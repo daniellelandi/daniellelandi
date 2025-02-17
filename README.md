@@ -1,6 +1,6 @@
 ## Muuuh! Welcome to my profile 🐄
 
-![Funny Cow](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
+![Patrick Star](https://upload.wikimedia.org/wikipedia/en/6/6e/Patrick_Star.png)
 
 ### Who am I? 🤔
 
