@@ -1,20 +1,18 @@
-## Hi there 👋
+## Muuuh! Welcome to my profile 🐄
 
-## Muuuh! Willkommen auf meinem Profil 🐄
+![Funny Cow](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
 
-![Lustige Kuh](https://i.imgur.com/UJ9T7gP.jpg)
+### Who am I? 🤔
 
-### Wer bin ich? 🤔
+Hello! I am an aspiring Platform Engineer 🚀 and currently 30 years young! 🧑‍💻
 
-Hallo! Ich bin ein angehender Platform Engineer 🚀 und aktuell 30 Jahre jung! 🧑‍💻
+### What am I doing here? 🛠️
+- 🏗️ Learning new things daily about cloud, automation, and IT infrastructure.
+- 🧑‍🏫 Trying to navigate the IT world with humor (and hoping it takes me seriously 😅).
+- 🤖 Enjoying experimenting with new technologies, especially in the DevOps world.
 
-### Was mache ich hier? 🛠️
-- 🏗️ Ich lerne täglich Neues rund um Cloud, Automatisierung und IT-Infrastruktur.
-- 🧑‍🏫 Ich versuche, die IT-Welt mit Humor zu nehmen (und hoffe, sie nimmt mich ernst 😅).
-- 🤖 Ich spiele gerne mit neuen Technologien, besonders in der DevOps-Welt.
+### Fun Fact about me 🧐
+I can set up a server faster than I can complete my morning routine. ☕💻
 
-### Fun Fact über mich 🧐
-Ich kann einen Server schneller aufsetzen als meine Morgenroutine erledigen. ☕💻
-
-### Lass uns vernetzen! 🌐
-📩 Schreib mir doch eine Nachricht oder wir treffen uns auf einer Konferenz – ich bringe Kuhglocken mit! 🔔🐄
+### Let's connect! 🌐
+📩 Drop me a message or catch me at a conference – I'll bring cowbells! 🔔🐄
