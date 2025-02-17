@@ -22,4 +22,4 @@ Patrick: "(raises hand again)"
 
 Squidward: "Horseradish is not an instrument either."
 
-[Watch the legendary scene here!](https://www.youtube.com/watch?v=F9VyF_MgFsE)
+[Watch the legendary scene here!](https://www.youtube.com/watch?v=d1JA-nh0IfI&t=8s)
