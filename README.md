@@ -1,4 +1,4 @@
-## Muuuh! Welcome to my profile 🐄
+## Welcome to my profile
 
 ![Patrick Star](https://upload.wikimedia.org/wikipedia/en/6/6e/Patrick_Star.png)
 
@@ -11,8 +11,15 @@ Hello! I am an aspiring Platform Engineer 🚀 and currently 30 years young! �
 - 🧑‍🏫 Trying to navigate the IT world with humor (and hoping it takes me seriously 😅).
 - 🤖 Enjoying experimenting with new technologies, especially in the DevOps world.
 
-### Fun Fact about me 🧐
-I can set up a server faster than I can complete my morning routine. ☕💻
+### Legendary Patrick Star Scene 🎺
+Squidward: "Does anyone have any questions before we start?"
 
-### Let's connect! 🌐
-📩 Drop me a message or catch me at a conference – I'll bring cowbells! 🔔🐄
+Patrick: "Is mayonnaise an instrument?"
+
+Squidward: "No, Patrick, mayonnaise is not an instrument."
+
+Patrick: "(raises hand again)"
+
+Squidward: "Horseradish is not an instrument either."
+
+[Watch the legendary scene here!](https://www.youtube.com/watch?v=F9VyF_MgFsE)
