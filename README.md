@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**daniellelandi/daniellelandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Muuuh! Willkommen auf meinem Profil 🐄
 
-Here are some ideas to get you started:
+![Lustige Kuh](https://i.imgur.com/UJ9T7gP.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wer bin ich? 🤔
+
+Hallo! Ich bin ein angehender Platform Engineer 🚀 und aktuell 30 Jahre jung! 🧑‍💻
+
+### Was mache ich hier? 🛠️
+- 🏗️ Ich lerne täglich Neues rund um Cloud, Automatisierung und IT-Infrastruktur.
+- 🧑‍🏫 Ich versuche, die IT-Welt mit Humor zu nehmen (und hoffe, sie nimmt mich ernst 😅).
+- 🤖 Ich spiele gerne mit neuen Technologien, besonders in der DevOps-Welt.
+
+### Fun Fact über mich 🧐
+Ich kann einen Server schneller aufsetzen als meine Morgenroutine erledigen. ☕💻
+
+### Lass uns vernetzen! 🌐
+📩 Schreib mir doch eine Nachricht oder wir treffen uns auf einer Konferenz – ich bringe Kuhglocken mit! 🔔🐄
