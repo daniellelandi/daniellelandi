@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-![Patrick Star](https://upload.wikimedia.org/wikipedia/en/6/6e/Patrick_Star.png)
+![Patrick Star](https://en.wikipedia.org/wiki/Patrick_Star#/media/File:Patrick_Star.svg)
 
 ### Who am I? 🤔
 
